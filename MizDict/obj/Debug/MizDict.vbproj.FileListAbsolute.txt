@@ -1,0 +1,17 @@
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\bin\Debug\MizDict.exe.config
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\bin\Debug\MizDict.exe
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\bin\Debug\MizDict.pdb
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\bin\Debug\MizDict.xml
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\MizDict.vbprojAssemblyReference.cache
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\MainWindow.g.vb
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\Application.g.vb
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\MizDict_MarkupCompile.cache
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\MizDict_MarkupCompile.lref
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\MainWindow.baml
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\MizDict.g.resources
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\MizDict.Resources.resources
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\MizDict.vbproj.GenerateResource.cache
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\MizDict.vbproj.CoreCompileInputs.cache
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\MizDict.exe
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\MizDict.xml
+C:\Users\sscs\Desktop\MizDictionary\MizDict\MizDict\obj\Debug\MizDict.pdb

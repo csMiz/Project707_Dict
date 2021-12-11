@@ -1,0 +1,18 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MizDict"
+        mc:Ignorable="d"
+        Title="Miz Dictionary" Height="450" Width="300">
+    <Grid>
+        <TextBox x:Name="box_search" VerticalAlignment="Top" Height="36" Text="" Margin="5,5,46,5" FontSize="18" VerticalContentAlignment="Center"  />
+        <Button  x:Name="btn_search" VerticalAlignment="Top" Height="36"  HorizontalAlignment="Right" Width="36" Margin="5" FontFamily="Segoe MDL2 Assets" Content="&#xE721;" />
+        <ScrollViewer x:Name="sv_content" Margin="0,46,0,0" VerticalScrollBarVisibility="Auto" >
+            <StackPanel x:Name="sp_content" Margin="5" >
+                
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>
